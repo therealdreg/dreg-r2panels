@@ -9,7 +9,7 @@ Now you have three tabs in the same session like:
 
 for 32bit process use dreg32, for 64 bits process use dreg64:
 
-![alt text](dreg64.png)
+![alt text](dreg32_64.png)
 
 hex (two hexdumps):
 ![alt text](hex.png)
