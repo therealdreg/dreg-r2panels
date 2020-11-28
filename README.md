@@ -5,6 +5,8 @@ my radare2 r2panels
 * open (v)  mode in radare2, click in TAB (upper right) to create three tabs
 * select in each tab one panel: go to file -> load layout -> saved layout 
 
+![alt text](load_panel.png)
+
 Now you have three tabs in the same session like:
 
 for 32bit process use dreg32, for 64 bits process use dreg64:
