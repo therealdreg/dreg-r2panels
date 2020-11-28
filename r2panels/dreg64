@@ -1,0 +1,1 @@
+{"Title":"Disassembly","Cmd":"pd","x":0,"y":1,"w":110,"h":49},{"Title":"RegisterRefs","Cmd":"drr","x":109,"y":1,"w":80,"h":23},{"Title":"dr 1","Cmd":"dr 1","x":109,"y":23,"w":80,"h":12},{"Title":"pxrQ @ rsp","Cmd":"pxrQ @ rsp","x":109,"y":34,"w":80,"h":16}
