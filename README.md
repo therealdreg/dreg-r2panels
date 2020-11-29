@@ -17,3 +17,21 @@ hex (two hexdumps):
 
 misc:
 ![alt text](misc.png)
+
+## Here my ~/.radare2rc
+
+```
+e asm.cmt.right=true
+
+e asm.nbytes=16
+e asm.bytes.space=true
+e asm.bytes.right=true
+
+e cfg.newtab=1
+
+e cfg.fortunes=false
+
+e scr.utf8 = true
+
+e key.f4=dss ; r
+```
