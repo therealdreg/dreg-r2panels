@@ -1,3 +1,5 @@
+Please, consider make a donation: https://github.com/sponsors/therealdreg
+
 # dreg-r2panels
 my radare2 r2panels
 
